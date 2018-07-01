@@ -11,7 +11,7 @@
  
  [r|R] - Tenha uma letra R no meio(maiúscula ou minúscula)
  
- [^|\.] - Não tenha espaço ou . no final(descape \.)
+ [^ |\.] - Não tenha espaço ou . no final(descape \.)
  
  
  re.search(), este método pesquisa e retorna primeira instância encontrada usando expressões regex
