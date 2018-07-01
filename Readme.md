@@ -24,7 +24,7 @@
  
 
 
-##### para rodar basta ter o Python instalado em sua máquina e executar com o mesmo. EX.: no seu terminal digite => 'python expressoes_regulares_python.py'
+#### para rodar basta ter o Python instalado em sua máquina e executar com o mesmo. EX.: no seu terminal digite => 'python expressoes_regulares_python.py'
 
 
 ### Ilustração 01
