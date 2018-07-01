@@ -1,6 +1,6 @@
 # Um pouco de Regex com Python!
 
-## O Arquivo "python expressoes_regulares_python.py" mostra um pouco da implementação do Regex no python.
+## O Arquivo "expressoes_regulares_python.py" mostra um pouco da implementação do Regex no python.
 
 
  [^ ] - não tem espaço
@@ -20,7 +20,7 @@
  
  re.split(), retorna lista criada através do caracter de corte na string
  
- # Dúvidas? - Veja a implementação destes métodos no arquivo "python expressoes_regulares_python.py" ele está neste repositório mesmo :D
+ # Dúvidas? - Veja a implementação destes métodos no arquivo "expressoes_regulares_python.py" ele está neste repositório mesmo :D
  
 
 
