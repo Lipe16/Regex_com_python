@@ -5,7 +5,7 @@
 
  [^ ] - não tem espaço
  
- * - tudo
+ \* - tudo
  
  [^ ]* - tudo que não tenha espaço
  
