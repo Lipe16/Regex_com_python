@@ -1,6 +1,6 @@
 # Um pouco de Regex com Python!
 
-- O Arquivo "python expressoes_regulares_python.py" mostra um pouco da implementação do Regex no python.
+## O Arquivo "python expressoes_regulares_python.py" mostra um pouco da implementação do Regex no python.
 
 
  [^ ] - não tem espaço
