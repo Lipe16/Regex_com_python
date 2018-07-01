@@ -1,12 +1,16 @@
 # Um pouco de Regex com Python!
 
-O Arquivo "python expressoes_regulares_python.py" mostra um pouco da implementação do Regex no python.
+- O Arquivo "python expressoes_regulares_python.py" mostra um pouco da implementação do Regex no python.
 
 
  [^ ] - não tem espaço
+ 
  * - tudo
+ 
  [^ ]* - tudo que não tenha espaço
+ 
  [r|R] - Tenha uma letra R no meio(maiúscula ou minúscula)
+ 
  [^|\.] - Não tenha espaço ou . no final(descape \.)
  
  
