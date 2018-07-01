@@ -14,11 +14,11 @@
  [^ |\\.] - Não tenha espaço ou . no final(descape \\.)
  
  
- re.search(), este método pesquisa e retorna primeira instância encontrada usando expressões regex
+ - re.search(), este método pesquisa e retorna primeira instância encontrada usando expressões regex
  
- re.findall(), retorna uma lista com todos os resultados encontrados através da expressão regular
+ - re.findall(), retorna uma lista com todos os resultados encontrados através da expressão regular
  
- re.split(), retorna lista criada através do caracter de corte na string
+ - re.split(), retorna lista criada através do caracter de corte na string
  
  # Dúvidas? - Veja a implementação destes métodos no arquivo "expressoes_regulares_python.py" ele está neste repositório mesmo :D
  
