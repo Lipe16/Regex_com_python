@@ -1,4 +1,4 @@
-# Um pouco de Regex com Python!
+ # Um pouco de Regex com Python! (Versão: Python 3.7)
 
 ## O Arquivo "expressoes_regulares_python.py" mostra um pouco da implementação do Regex no python.
 
